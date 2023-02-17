@@ -1,0 +1,35 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+.summary {
+  line-height: 150%;
+}
+
+table {
+  border-spacing: 0;
+}
+
+table,
+th,
+td {
+  border: 1px solid #464646;
+}
+
+tr {
+  background-color: #161616;
+}
+
+tr:nth-child(odd) {
+  background-color: #2b2b2b;
+}
+
+th, td {
+  padding: 5px;
+}
